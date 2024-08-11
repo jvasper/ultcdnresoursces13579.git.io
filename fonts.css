@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: 'Gilroy';
     src: url('/client_packages/browsers/fonts/Gilroy/Gilroy-Light.ttf');
     font-weight: 100;
@@ -22,4 +22,14 @@
     font-family: 'Gilroy';
     src: url('/client_packages/browsers/fonts/Gilroy/Gilroy-Bold.ttf');
     font-weight: 500;
+}*/]
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-Light.eot');
+    src: local('Gilroy-Light'), local('Gilroy-Light'),
+    url('Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+    url('Gilroy-Light.woff') format('woff'),
+    url('Gilroy-Light.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
 }
