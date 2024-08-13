@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('Gilroy-Semibold.eot');
+    src: local('Gilroy-Light'), local('Gilroy-Semibold'),
+    url('Gilroy-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('Gilroy-Semibold.woff') format('woff'),
+    url('Gilroy-Semibold.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
